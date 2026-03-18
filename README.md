@@ -4,8 +4,7 @@
 Titanic - Machine Learning from Disaster
 
 ## Integrantes
-Diego Lira 
-Gabriel Poblete
+Diego Lira / Gabriel Poblete
 
 ## Contenido
 - Frameworks para analítica de datos
